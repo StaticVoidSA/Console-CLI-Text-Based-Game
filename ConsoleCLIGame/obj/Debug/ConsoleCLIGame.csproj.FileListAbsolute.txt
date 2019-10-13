@@ -1,0 +1,7 @@
+C:\Users\StaticVoid_SA\source\repos\ConsoleCLIGame\ConsoleCLIGame\bin\Debug\ConsoleCLIGame.exe.config
+C:\Users\StaticVoid_SA\source\repos\ConsoleCLIGame\ConsoleCLIGame\bin\Debug\ConsoleCLIGame.exe
+C:\Users\StaticVoid_SA\source\repos\ConsoleCLIGame\ConsoleCLIGame\bin\Debug\ConsoleCLIGame.pdb
+C:\Users\StaticVoid_SA\source\repos\ConsoleCLIGame\ConsoleCLIGame\obj\Debug\ConsoleCLIGame.csprojAssemblyReference.cache
+C:\Users\StaticVoid_SA\source\repos\ConsoleCLIGame\ConsoleCLIGame\obj\Debug\ConsoleCLIGame.csproj.CoreCompileInputs.cache
+C:\Users\StaticVoid_SA\source\repos\ConsoleCLIGame\ConsoleCLIGame\obj\Debug\ConsoleCLIGame.exe
+C:\Users\StaticVoid_SA\source\repos\ConsoleCLIGame\ConsoleCLIGame\obj\Debug\ConsoleCLIGame.pdb
